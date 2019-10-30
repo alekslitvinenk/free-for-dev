@@ -437,6 +437,10 @@ Table of Contents
   * [Mailnesia](https://mailnesia.com) - Free temporary/disposable email, which auto visit registration link.
   * [ImprovMX](https://improvmx.com) – Free email forwarding
 
+## VPN
+
+  * [dockovpn.io](https://dockovpn.io/) - Dockerized VPN solution. Up and running in 2 seconds. Absolutely free.
+
 ## CDN and Protection
 
   * [PageCDN.com](https://pagecdn.com/) - Offers free Public CDN for everyone, and free Private CDN for opensource / non profits.
